@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["gsap"]
+  "cSpell.words": ["dets", "gsap"],
+  "liveServer.settings.port": 5501
 }
